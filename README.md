@@ -1,5 +1,5 @@
 # PASSer2.0
-[![DOI](http://img.shields.io/badge/DOI-10.3389/fmolb.2022.879251)](https://static.frontiersin.org/articles/10.3389/fmolb.2022.879251/full)
+[![DOI](http://img.shields.io/badge/DOI-10.3389/fmolb.2022.879251.syg)](https://static.frontiersin.org/articles/10.3389/fmolb.2022.879251/full)
 
 
 # Publication
